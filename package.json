@@ -1,0 +1,21 @@
+{
+    "name": "doffy-dark",
+    "displayName": "Doffy Dark",
+    "description": "Doffy Dark Theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Doffy Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Doffy Dark-color-theme.json"
+            }
+        ]
+    }
+}
