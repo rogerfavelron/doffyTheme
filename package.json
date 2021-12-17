@@ -2,21 +2,21 @@
     "name": "doffy-dark",
     "displayName": "Doffy Dark",
     "description": "A beatiful dark theme",
-    "publisher":"rogerfavelron",
-    "repository":{
-		"type":"git",
-		"url":"https://github.com/rogerfavelron/doffyTheme"
-	},
-    "icon":"logo.jpg",
-    "keywords":[
-		"theme",
-		"dark theme",
-		"doffy",
-		"one piece",
-		"beatiful theme",
-		"dark"
-	],
-    "version": "0.0.1",
+    "publisher": "rogerfavelron",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rogerfavelron/doffyTheme"
+    },
+    "icon": "logo.jpg",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "doffy",
+        "one piece",
+        "beatiful theme",
+        "dark"
+    ],
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.63.0"
     },
