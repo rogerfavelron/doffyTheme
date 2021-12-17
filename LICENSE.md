@@ -1,1 +1,1 @@
-You can use it as you want, there's no license .
+You can use it as you want.

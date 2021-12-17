@@ -3,16 +3,7 @@
 	"displayName":"Doffy Theme",
 	"description":"A beatiful dark theme",
 	"publisher":"rogerfavelron",
-	"publisherName":"rogerfavelron",
 	"colorSpaceName": "sRGB",
-	"keywords":[
-		"theme",
-		"dark theme",
-		"doffy",
-		"one piece",
-		"beatiful theme",
-		"dark"
-	],
 	"tokenColors": [
 	  {
 		"scope": "comment",
