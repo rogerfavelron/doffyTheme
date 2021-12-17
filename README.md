@@ -7,6 +7,6 @@ Preferences:
 
 1. Go to `Extensions`
 2. Search for `Doffy` and install it.
-3. Go to `Color Themes` and choose `Doffy Dark` as the color theme or `CMD + Shift + P` and enter Command `> color theme` and choose `Panda Dark`.
+3. Go to `Color Themes` and choose `Doffy Dark` as the color theme or `CMD + Shift + P` and enter Command `> color theme` and choose `Doffy Dark`.
 
 
